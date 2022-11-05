@@ -1,0 +1,14 @@
+*~
+.*~
+
+*.pyc
+
+temp/
+venv/
+
+*.xlsx
+*.xls
+*.zip
+
+*.html
+*.txt
